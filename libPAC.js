@@ -7,8 +7,11 @@ var domains = {
   "wanfangdata.com.cn":1,
   "ip.cn":1,
   "duxiu.com":1,
+  "sslibrary.com":1,
+  "chaoxing.com":1,
   "cnki.net":1
 };
+
 
 var proxy =  "PROXY inproxy.sjtu.edu.cn:8000";
 var direct = 'DIRECT;';
