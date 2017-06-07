@@ -172,7 +172,7 @@ var domains = {
 	"thieme-connect.com":1,
 	"51cto.com":1,
 	"cnbksy.net":1,
-	"cnpereading.com ":1,
+	"cnpereading.com ":1
 };
 
 
